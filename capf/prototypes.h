@@ -3,10 +3,13 @@
 #include "structs.cpp"
 typedef struct node;
 typedef struct arc;
-void InitGame(int N, node *LesNodes);
-void DrawGame(int N, node *LesNodes);
-double distance(node premierNoeud,node deuxiemeNoeud);
-double** allocateGraph(int N, node* LesNodes);
-void distanceMatrix(int N,double** graph,node* LesNodes);
 
+
+void InitGame(int , node*);
+void DrawGame(int , node *,double**);
+double distance(node,node);
+double** allocateGraph(int, node*);
+void distanceMatrix(int,double**,node*);
+void gabriel(int, node*,double**);
+void affichage(int, double**);
 #endif // PROTOTYPES_H_INCLUDED

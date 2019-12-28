@@ -1,19 +1,19 @@
 # depslib dependency file v1.0
-1577484400 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\main.cpp
+1577536462 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\main.cpp
 	<iostream>
 	<stdio.h>
 	<stdlib.h>
 	"prototypes.h"
 
-1577484871 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\structs.cpp
+1577536462 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\structs.cpp
 	"raylib.h"
 
 1577371718 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\gabriel.cpp
 
-1577484871 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\structs.cpp
+1577536462 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\structs.cpp
 	"raylib.h"
 
-1577484256 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\prototypes.h
+1577536486 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\prototypes.h
 	"structs.cpp"
 
 1577033717 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\initgame.cpp
@@ -31,10 +31,11 @@
 	"raylib.h"
 	<stdlib.h>
 
-1577484942 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\functions.cpp
+1577536580 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\capf\functions.cpp
 	"structs.cpp"
 	"raylib.h"
 	<stdlib.h>
 	<stdio.h>
 	<cmath>
+	<iostream>
 

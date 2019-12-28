@@ -36,7 +36,6 @@
 			<Add option="-lraylib" />
 		</Linker>
 		<Unit filename="functions.cpp" />
-		<Unit filename="gabriel.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="prototypes.h" />
 		<Unit filename="structs.cpp" />
