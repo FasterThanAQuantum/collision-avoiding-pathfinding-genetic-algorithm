@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1578955391 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\functions.cpp
+	"raylib.h"
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	"prototypes.h"
+
+1578306113 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\structs.cpp
+	"raylib.h"
+
+1579619476 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+	<string>
+
+1579619836 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\prototypes.h
+	"raylib.h"
+
+1578306113 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\structs.cpp
+	"raylib.h"
+
+1579619205 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\robot.cpp
+	<iostream>
+	"prototypes.h"
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+
+1578998912 c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\robot.h
+	"prototypes.h"
+
+1579619773 source:c:\users\baliz\desktop\collision-avoiding-path-finding-algorithm\src\fonctions.cpp
+	"prototypes.h"
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+
