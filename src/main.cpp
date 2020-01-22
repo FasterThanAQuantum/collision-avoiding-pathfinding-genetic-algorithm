@@ -46,6 +46,13 @@ main()
     //CREATION DU ROBOT
     Robot testRobot(nodes,N);
     testRobot.buildPath(N,grapheGabriel);
+    while(testRobot.getDestination().indice!=testRobot.getPathValue(N-1)){
+        testRobot.buildPath(N,grapheGabriel);
+        i++;
+
+    }
+    cout<<"\nIteration number: " <<i<<"\n";
+
 
     //AFFICHAGE DU GRAPHE
     affichageGraphe(N,grapheGabriel);
