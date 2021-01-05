@@ -4,8 +4,8 @@ the project revolves around coming up with a gentic algorithm that allows a numb
 to reach his end point with minimising the collision rate.
 
 
-A robot is created with the simulation, alongside with it's path. 
-A user can move the robot on step on it's path by clicking the space bar and in order get the result directly a user is invited to click the Key "F"
+A robot is created with the simulation, alongside with its path. 
+A user can move the robot step by step on the path by clicking the space bar and in order get the result directly a user is invited to click the Key "F".
 
 
 
